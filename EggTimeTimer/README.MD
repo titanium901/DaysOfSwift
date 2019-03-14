@@ -1,3 +1,3 @@
 # EggTimeTimer
-![egg](https://user-images.githubusercontent.com/30910230/54372368-40521e00-468c-11e9-8d0c-77e287d626f9.gif)
+![egg2](https://user-images.githubusercontent.com/30910230/54372646-c706fb00-468c-11e9-9023-1636421cc1d2.gif)
 
