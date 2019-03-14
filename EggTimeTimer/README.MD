@@ -1,2 +1,3 @@
 # EggTimeTimer
-![2019-03-14 18-55-10 2019-03-14 18_57_57](https://user-images.githubusercontent.com/30910230/54372133-c91c8a00-468b-11e9-8026-a8f3313536aa.gif)
+![egg](https://user-images.githubusercontent.com/30910230/54372368-40521e00-468c-11e9-8d0c-77e287d626f9.gif)
+
