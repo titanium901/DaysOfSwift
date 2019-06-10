@@ -1,2 +1,2 @@
-# 100DaysOfSwift
+# DaysOfSwift
 Mini Swift Apps for self-study
